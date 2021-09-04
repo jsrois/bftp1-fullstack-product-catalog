@@ -1,7 +1,8 @@
 ## Tareas
 
-- [ ] Crear endpoints en el backend
-- [ ] Frontend básico. Mostrar y crear productos.
+- [x] Crear endpoints en el backend
+- [x] Frontend básico. Mostrar productos.
+- [ ] Crear productos
 - [ ] Añadir basic security
 - [ ] Sólo los usuarios autenticados pueden añadir productos
 
